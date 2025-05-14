@@ -1,1 +1,1 @@
-# EdgeExplorer
+# EdgeDetection
